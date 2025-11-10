@@ -1,6 +1,9 @@
 # Grammer Scoring Using Multimodal Learning (SHL_Assignment)
 📘 **Overview**
 
+Link to my report:
+https://drive.google.com/file/d/1WTTVNLFcfiL-DbcTS7iS-eWNrj9LvazB/view?usp=sharing
+
 This project focuses on predicting grammar scores (ranging from 0 to 5) using both text and audio data. The idea was to explore how linguistic features (from text) and paralinguistic cues (from audio) together can improve grammar quality prediction.
 
 
