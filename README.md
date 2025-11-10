@@ -66,6 +66,6 @@ Confidence-weighted blending helps when model uncertainties differ.
 
 Python, PyTorch, Transformers
 
-Sentence Transformer, DeBERTa, NVIDIA Parakeet-TDT
+Sentence Transformer, DeBERTa, nvidia/parakeet-tdt-0.6b-v2
 
 Scikit-learn, NumPy, Pandas
