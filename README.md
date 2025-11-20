@@ -6,6 +6,7 @@ https://drive.google.com/file/d/1WTTVNLFcfiL-DbcTS7iS-eWNrj9LvazB/view?usp=shari
 
 This project focuses on predicting grammar scores (ranging from 0 to 5) using both text and audio data. The idea was to explore how linguistic features (from text) and paralinguistic cues (from audio) together can improve grammar quality prediction.
 
+<img width="1081" height="547" alt="image" src="https://github.com/user-attachments/assets/4b02f0a4-86da-4de7-9f2b-0286ec6a936b" />
 
 
 
